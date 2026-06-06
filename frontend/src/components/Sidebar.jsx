@@ -16,7 +16,7 @@ import { MdOutlineSettings } from "react-icons/md"
 import { MdOutlineAccountCircle } from "react-icons/md"
 import { HiOutlineQuestionMarkCircle } from "react-icons/hi2"
 import { MdOutlineFeedback } from "react-icons/md"
-
+import { UIContext } from "../context/UIContextValue"
 
 const mainItems = [
 	{ name: "Home", icon: HiOutlineHome, href: "/" },

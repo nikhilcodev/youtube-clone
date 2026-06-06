@@ -6,7 +6,8 @@ import { HiOutlineSun } from "react-icons/hi2"
 import { IoSearchSharp } from "react-icons/io5"
 import { FaYoutube } from "react-icons/fa"
 import { Link, useLocation, useNavigate} from "react-router-dom"
-
+import { AuthContext} from "../context/AuthContextValue"
+import { UIContext } from "../context/UIContextValue"
 
 export default function Header({ searchQuery = "", onSearchChange }) {
     const navigate = useNavigate()
