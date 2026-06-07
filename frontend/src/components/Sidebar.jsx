@@ -216,7 +216,7 @@ export default function Sidebar() {
 								Test new features
 							</p>
 							<p className="mt-2 text-xs text-gray-400 dark:text-gray-500">
-								© 2026 Akash Damle
+								© 2026 Nikhil Sharma
 							</p>
 						</div>
 					</>
