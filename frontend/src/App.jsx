@@ -1,5 +1,6 @@
-import Header from "./components/Header"
-import Sidebar from "./components/Sidebar";
+import { useContext } from "react";
+import OfflineIndicator from "./components/OfflineIndicator";
+import 
 
 function App() {
     return (
