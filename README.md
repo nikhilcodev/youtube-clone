@@ -12,6 +12,14 @@ This is a complete **YouTube Clone** built with the MERN stack (MongoDB, Express
 
 ---
 
+## 🔗 Google drive Video Demo Link
+
+You can access the short video demo showcasing Youtube Clone's features here:
+
+📽️ **https://drive.google.com/file/d/1iXfNQ9Ol2bRny-1ZLyfWVQdRITCgM80H/view?usp=sharing**
+
+---
+
 ## 🎯 Project Overview
 
 The YouTube Clone is a full-stack web application that demonstrates real-world development practices. Users can:
