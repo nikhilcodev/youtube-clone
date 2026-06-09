@@ -1,5 +1,5 @@
 import mongoose from "mongoose"
-import bcryptjs from "bcryptjs"
+import bcrypt from "bcryptjs"
 import dotenv from "dotenv"
 
 import User from "../models/User.js"

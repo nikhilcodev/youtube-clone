@@ -1,6 +1,6 @@
 import express from "express"
-import jsonwebtoken from "jsonwebtoken"
-import bcryptjs from "bcryptjs"
+import jwt from "jsonwebtoken"
+import bcrypt from "bcryptjs"
 import User from "../models/User.js"
 import authMiddleware from "../middleware/authMiddleware.js"
 import { validateRegistration, validateLogin } from "../utils/validators.js"
